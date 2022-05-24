@@ -1,4 +1,4 @@
-# Anima App exported react code
+
 
 ## Instructions
 ```
