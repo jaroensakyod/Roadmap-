@@ -1,0 +1,25 @@
+.subtitle {
+  align-items: flex-start;
+  display: flex;
+  height: 31px;
+  left: 31px;
+  padding: 5.5px 10px;
+  position: absolute;
+  top: 5055px;
+  width: 161px;
+}
+
+.copywright-2022-rnx-1 {
+  letter-spacing: 0.10px;
+  line-height: 18px;
+  min-height: 18px;
+  min-width: 141px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.subtitle.subtitle-1 {
+  left: 89px;
+  top: 5022px;
+}
+

@@ -1,0 +1,25 @@
+.right-1,
+.right-2 {
+  align-items: center;
+  display: flex;
+  height: 43px;
+  justify-content: center;
+  margin-top: 3px;
+  overflow: hidden;
+  width: 498px;
+}
+
+.desktop-menu-1,
+.desktop-menu-2 {
+  display: flex;
+  margin-left: -16px;
+  position: relative;
+  width: 482px;
+}
+
+.text-link-3,
+.text-link-4 {
+  height: 48px;
+  width: 71px;
+}
+

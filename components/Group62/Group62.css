@@ -1,0 +1,52 @@
+.group-62 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 876px;
+  min-height: 150px;
+  position: absolute;
+  top: 919px;
+  width: 924px;
+}
+
+.title {
+  letter-spacing: 1.20px;
+  line-height: 85px;
+  margin-bottom: -10px;
+  min-height: 75px;
+  text-align: center;
+  white-space: nowrap;
+  width: 644px;
+}
+
+.flex-row {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 4px;
+  min-width: 916px;
+}
+
+.group-61 {
+  background-color: var(--razzle-dazzle-rose);
+  height: 75px;
+  width: 10px;
+}
+
+.rebirthing-the-new-g {
+  letter-spacing: 0.20px;
+  line-height: 42.2px;
+  margin-left: 1px;
+  min-height: 73px;
+  width: 905px;
+}
+
+.group-62.group-62-1 {
+  left: 461px;
+  top: 254px;
+}
+
+.group-62.group-62-2 {
+  left: 83px;
+  top: 254px;
+}
+
